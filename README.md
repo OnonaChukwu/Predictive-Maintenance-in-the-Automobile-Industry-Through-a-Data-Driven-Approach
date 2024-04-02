@@ -40,7 +40,7 @@
 
 ## Question 2: What is the impact of vehicle usage (personal vs. commercial) on the average repair cost and the number of repairs?
 ![image](https://github.com/OnonaChukwu/Predictive_maintenance/assets/155753951/1e24a775-c23d-4f78-8c21-c881ddf16ce8) ![image](https://github.com/OnonaChukwu/Predictive_maintenance/assets/155753951/b7fbac93-b56a-4bfb-baf4-a9f47ba79416)
-## Commercial vehicles cost more (765Eur) compared to private (788Eur), but the frequency of repair in private (4.42) is slightly lower compared to commercial (4.50).
+## Commercial vehicles cost less (769Eur) compared to private (788Eur), but the frequency of repair in private (4.42) is slightly lower compared to commercial (4.50).
 ## For owners and operators, understanding these differences can inform budgeting for maintenance costs. 
 ## Businesses using commercial vehicles may anticipate more frequent repairs but can also expect slightly lower costs per repair. 
 ## In contrast, private users might face repairs less frequently but with a higher cost per instance. 
